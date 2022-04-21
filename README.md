@@ -1,2 +1,1 @@
-# github-final-project
-GitHub Final Project - Coursera
+# GitHub Final Project - Coursera
